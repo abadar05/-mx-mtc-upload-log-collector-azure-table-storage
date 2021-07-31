@@ -5,7 +5,7 @@
         "sas_token": "<Add your Azure Storage Account SAS Key>"
 	},
 	"directory": {	
-		"local_dir": "C:/MTC/moxaiiot-upload-device-info-azure-table-storage/",
+		"local_dir": "C:/MTC/mx-mtc-upload-log-collector-azure-table-storage/",
 		"read_files": [""],
 		"read_all": true,
 		"logfile_lastname": "TvInfo"
