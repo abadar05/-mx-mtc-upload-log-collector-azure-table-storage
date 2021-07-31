@@ -1,0 +1,16 @@
+{
+    "general":{
+        "account_name": "<Add your Azure Storage Account Name>",
+        "partition_key": "<key>:<value>",
+        "sas_token": "<Add your Azure Storage Account SAS Key>"
+	},
+	"directory": {	
+		"local_dir": "C:/MTC/moxaiiot-upload-device-info-azure-table-storage/",
+		"read_files": [""],
+		"read_all": true,
+		"logfile_lastname": "TvInfo"
+	},
+	"table": {
+		"order_id": "TEST_ID"
+	}
+}
