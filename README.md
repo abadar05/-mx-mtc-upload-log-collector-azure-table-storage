@@ -1,4 +1,4 @@
-# moxaiiot-upload-device-info-azure-table-storage
+# upload-log-collector-azure-table-storage
 
 In order to connect python application to Azure storage account.
 
